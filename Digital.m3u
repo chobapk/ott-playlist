@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="mono29" tvg-logo="https://api.bananamuffin.org/images/png/hd-monobkp.png" group-title="Digital TV",Mono 29
+https://love.bovilu.workers.dev/lx-origin/hd-monobkp_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nbt" tvg-logo="https://api.bananamuffin.org/images/png/sd-nbt.png" group-title="Digital TV",NBT HD
+https://love.bovilu.workers.dev/lx-origin/sd-nbt_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="amarintv-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-amarin.png" group-title="Digital TV",Amarin TV
+https://love.bovilu.workers.dev/lx-origin/hd-amarin_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch3-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch3.png" group-title="Digital TV",ช่อง 3 HD
+https://love.bovilu.workers.dev/lx-origin/hd-ch3_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch5" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch5.png" group-title="Digital TV",ช่อง 5
+https://love.bovilu.workers.dev/lx-origin/hd-ch5_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch7-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch7.png" group-title="Digital TV",ช่อง 7HD
+https://love.bovilu.workers.dev/lx-origin/hd-ch7_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch8" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch8.png" group-title="Digital TV",ช่อง 8
+https://love.bovilu.workers.dev/lx-origin/hd-ch8_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="one-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-gmmone.png" group-title="Digital TV",one HD
+https://love.bovilu.workers.dev/lx-origin/hd-gmmone_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9mcot-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-mcot.png" group-title="Digital TV",MCOT HD
+https://love.bovilu.workers.dev/lx-origin/hd-mcot_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pptv-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-pptv.png" group-title="Digital TV",PPTV
+https://love.bovilu.workers.dev/lx-origin/hd-pptv_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="thairathtv-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-thairath.png" group-title="Digital TV",ไทยรัฐ TV
+https://love.bovilu.workers.dev/lx-origin/hd-thairath_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="thaipbs" tvg-logo="https://api.bananamuffin.org/images/png/hd-tpbs.png" group-title="Digital TV",Thai PBS
+https://love.bovilu.workers.dev/lx-origin/hd-tpbs_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="workpointtv" tvg-logo="https://api.bananamuffin.org/images/png/hd-workpoint.png" group-title="Digital TV",Workpoint TV
+https://love.bovilu.workers.dev/lx-origin/hd-workpoint_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="true4u" tvg-logo="https://api.bananamuffin.org/images/png/sd-24u.png" group-title="Digital TV",True4U
+https://love.bovilu.workers.dev/lx-origin/sd-24u_480/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmm25" tvg-logo="https://api.bananamuffin.org/images/png/sd-gmmchannel.png" group-title="Digital TV",GMM25
+https://love.bovilu.workers.dev/lx-origin/sd-gmmchannel_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nationtv" tvg-logo="https://api.bananamuffin.org/images/png/sd-nation.png" group-title="Digital TV",Nation TV
+https://love.bovilu.workers.dev/lx-origin/sd-nation_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="news-newss1" tvg-logo="https://s.imgz.io/2026/04/19/New1417e8ea369d8085b.png" group-title="Digital TV",News1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 tvg-id="tnn16" tvg-logo="https://api.bananamuffin.org/images/png/sd-tnn24.png" group-title="Digital TV",TNN16
+https://love.bovilu.workers.dev/lx-origin/sd-tnn24_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tptv" tvg-logo="https://api.bananamuffin.org/images/png/sd-tptv.png" group-title="Digital TV",TPTV
+https://love.bovilu.workers.dev/lx-origin/sd-tptv_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tid-top-news" tvg-logo="https://i.postimg.cc/HxXmMtpP/topnews.png" group-title="Digital TV",Top-news
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+
+#EXTINF:-1 tvg-id="true-asian-more" tvg-logo="https://api.bananamuffin.org/images/png/hd-asianmore.png" group-title="Entertainment",hd-asianmore
+https://love.bovilu.workers.dev/vx-origin/hd-asianmore_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tid-cartoon-club-channel" tvg-logo="https://api.bananamuffin.org/images/png/hd-dreamworks.png" group-title="Entertainment",hd-dreamworks
+https://love.bovilu.workers.dev/vx-origin/hd-dreamworks_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="hd-axn" tvg-logo="https://api.bananamuffin.org/images/png/hd-axn.png" group-title="Entertainment",hd-axn
+https://love.bovilu.workers.dev/vx-origin/hd-axn_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="true-film-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-tfilm.png" group-title="Entertainment",hd-tfilm
+https://love.bovilu.workers.dev/vx-origin/hd-tfilm_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3BB.110" tvg-logo="https://api.bananamuffin.org/images/png/hd-warnertv.png" group-title="Entertainment",hd-warnertv
+https://love.bovilu.workers.dev/lx-origin/hd-warnertv_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="film-asia-hd" tvg-logo="https://api.bananamuffin.org/images/png/sd-filmasia.png" group-title="Entertainment",sd-filmasia
+https://love.bovilu.workers.dev/vx-origin/sd-filmasia_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="true-movie-hits" tvg-logo="https://api.bananamuffin.org/images/png/sd-moviehits.png" group-title="Entertainment",sd-moviehits
+https://love.bovilu.workers.dev/vx-origin/sd-moviehits_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="true-series" tvg-logo="https://api.bananamuffin.org/images/png/sd-series.png" group-title="Entertainment",sd-series
+https://love.bovilu.workers.dev/vx-origin/sd-series_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="thai-film" tvg-logo="https://api.bananamuffin.org/images/png/sd-thaifilm.png" group-title="Entertainment",sd-thaifilm
+https://love.bovilu.workers.dev/vx-origin/sd-thaifilm_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3BB.206" tvg-logo="https://api.bananamuffin.org/images/png/sd-asianfood.png" group-title="Documentary",sd-asianfood
+https://love.bovilu.workers.dev/lx-origin/sd-asianfood_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="true-explore-3" tvg-logo="https://api.bananamuffin.org/images/png/sd-expsci.png" group-title="Documentary",sd-expsci
+https://love.bovilu.workers.dev/vx-origin/sd-expsci_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3BB.503" tvg-logo="https://api.bananamuffin.org/images/png/sd-discovery.png" group-title="Documentary",sd-discovery
+https://love.bovilu.workers.dev/lx-origin/sd-discovery_720/playlist.m3u8
