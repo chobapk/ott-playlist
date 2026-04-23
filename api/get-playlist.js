@@ -1,22 +1,26 @@
-export default async function handler(req, res) {
-  const { id } = req.query;
+import { Redis } from '@upstash/redis';
 
-  const allowedUsers = ['chobapk-001', 'friend-01'];
+const redis = Redis.fromEnv();
+
+export default async function handler(req, res) {
+  const { token } = req.query;
 
   res.setHeader('Content-Type', 'application/x-mpegURL');
 
-  // ? ยังไม่อนุญาต
-  if (!allowedUsers.includes(id)) {
-    const lockMessage = `#EXTM3U
+  // ?? ตรวจ token จาก database
+  const user = await redis.get(token);
 
-#EXTINF:-1,?? กรุณาแจ้ง ID (${id || 'Unknown'})
+  // ? ยังไม่อนุมัติ
+  if (!user || !user.approved) {
+    return res.status(200).send(`#EXTM3U
+
+#EXTINF:-1,?? กรุณาขออนุมัติ Token (${token || 'Unknown'})
 https://example.com
-`;
-    return res.status(200).send(lockMessage);
+`);
   }
 
   try {
-    // ?? URL playlist ที่จะดึง (ใส่ของจริงตรงนี้)
+    // ? ดึง playlist จริง
     const url = "https://drive.google.com/uc?export=download&id=1KJeTtN2F7k9BsTDb56UwWYH-w8Sq2_YX";
 
     const response = await fetch(url);
@@ -25,6 +29,9 @@ https://example.com
     return res.status(200).send(data);
 
   } catch (error) {
-    return res.status(500).send("#EXTM3U\n#EXTINF:-1,Error loading playlist\n");
+    return res.status(500).send(`#EXTM3U
+
+#EXTINF:-1,Error loading playlist
+`);
   }
 }
