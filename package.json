@@ -1,13 +1,12 @@
 {
-  "name": "github",
+  "name": "my-iptv-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "type": "module",
+  "main": "api/get-playlist.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/get-playlist.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
 }

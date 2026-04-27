@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/get-playlist.js": {
+      "includeFiles": "playlist/**"
+    }
+  }
+}
