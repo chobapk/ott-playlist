@@ -1,0 +1,909 @@
+#EXTM3U url-tvg="https://test5-theta-six.vercel.app/all_epg_combined.xml"
+#EXTINF:-1 tvg-id="mono29" tvg-logo="https://api.bananamuffin.org/images/png/hd-monobkp.png" group-title="Digital TV",Mono 29
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-monobkp_720/playlist.m3u8
+#EXTINF:-1 tvg-id="nbt" tvg-logo="https://api.bananamuffin.org/images/png/sd-nbt.png" group-title="Digital TV",NBT HD
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-nbt_720/playlist.m3u8
+#EXTINF:-1 tvg-id="amarintv-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-amarin.png" group-title="Digital TV",Amarin TV
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-amarin_720/playlist.m3u8
+#EXTINF:-1 tvg-id="ch3-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch3.png" group-title="Digital TV",ช่อง 3 HD
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-ch3_720/playlist.m3u8
+#EXTINF:-1 tvg-id="ch5" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch5.png" group-title="Digital TV",ช่อง 5
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-ch5_720/playlist.m3u8
+#EXTINF:-1 tvg-id="ch7-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch7.png" group-title="Digital TV",ช่อง 7HD
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-ch7_720/playlist.m3u8
+#EXTINF:-1 tvg-id="ch8" tvg-logo="https://api.bananamuffin.org/images/png/hd-ch8.png" group-title="Digital TV",ช่อง 8
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-ch8_480/playlist.m3u8
+#EXTINF:-1 tvg-id="one-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-gmmone.png" group-title="Digital TV",one HD
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-gmmone_720/playlist.m3u8
+#EXTINF:-1 tvg-id="9mcot-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-mcot.png" group-title="Digital TV",MCOT HD
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-mcot_720/playlist.m3u8
+#EXTINF:-1 tvg-id="pptv-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-pptv.png" group-title="Digital TV",PPTV
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-pptv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="thairathtv-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-thairath.png" group-title="Digital TV",ไทยรัฐ TV
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-thairath_720/playlist.m3u8
+#EXTINF:-1 tvg-id="thaipbs" tvg-logo="https://api.bananamuffin.org/images/png/hd-tpbs.png" group-title="Digital TV",Thai PBS
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-tpbs_720/playlist.m3u8
+#EXTINF:-1 tvg-id="workpointtv" tvg-logo="https://api.bananamuffin.org/images/png/hd-workpoint.png" group-title="Digital TV",Workpoint TV
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-workpoint_720/playlist.m3u8
+#EXTINF:-1 tvg-id="true4u" tvg-logo="https://api.bananamuffin.org/images/png/sd-24u.png" group-title="Digital TV",True4U
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-24u_480/playlist.m3u8
+#EXTINF:-1 tvg-id="gmm25" tvg-logo="https://api.bananamuffin.org/images/png/sd-gmmchannel.png" group-title="Digital TV",GMM25
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-gmmchannel_720/playlist.m3u8
+#EXTINF:-1 tvg-id="nationtv" tvg-logo="https://api.bananamuffin.org/images/png/sd-nation.png" group-title="Digital TV",Nation TV
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-nation_720/playlist.m3u8
+#EXTINF:-1 tvg-id="news-newss1" tvg-logo="https://s.imgz.io/2026/04/19/New1417e8ea369d8085b.png" group-title="Digital TV",News1
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:-1 tvg-id="tnn16" tvg-logo="https://api.bananamuffin.org/images/png/sd-tnn24.png" group-title="Digital TV",TNN16
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-tnn24_720/playlist.m3u8
+#EXTINF:-1 tvg-id="tptv" tvg-logo="https://api.bananamuffin.org/images/png/sd-tptv.png" group-title="Digital TV",TPTV
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-tptv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="tid-top-news" tvg-logo="https://i.postimg.cc/HxXmMtpP/topnews.png" group-title="Digital TV",Top-news
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+#EXTINF:-1 tvg-id="true-asian-more" tvg-logo="https://api.bananamuffin.org/images/png/hd-asianmore.png" group-title="Entertainment",hd-asianmore
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-asianmore_720/playlist.m3u8
+#EXTINF:-1 tvg-id="3BB.301" tvg-logo="https://api.bananamuffin.org/images/png/hd-dreamworks.png" group-title="Entertainment",hd-dreamworks
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-dreamworks_720/playlist.m3u8
+#EXTINF:-1 tvg-id="hd-axn" tvg-logo="https://api.bananamuffin.org/images/png/hd-axn.png" group-title="Entertainment",hd-axn
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-axn_720/playlist.m3u8
+#EXTINF:-1 tvg-id="true-film-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-tfilm.png" group-title="Entertainment",hd-tfilm
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-tfilm_720/playlist.m3u8
+#EXTINF:-1 tvg-id="3BB.110" tvg-logo="https://api.bananamuffin.org/images/png/hd-warnertv.png" group-title="Entertainment",hd-warnertv
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-warnertv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="film-asia-hd" tvg-logo="https://api.bananamuffin.org/images/png/sd-filmasia.png" group-title="Entertainment",sd-filmasia
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/sd-filmasia_720/playlist.m3u8
+#EXTINF:-1 tvg-id="true-movie-hits" tvg-logo="https://api.bananamuffin.org/images/png/sd-moviehits.png" group-title="Entertainment",sd-moviehits
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/sd-moviehits_720/playlist.m3u8
+#EXTINF:-1 tvg-id="true-series" tvg-logo="https://api.bananamuffin.org/images/png/sd-series.png" group-title="Entertainment",sd-series
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/sd-series_720/playlist.m3u8
+#EXTINF:-1 tvg-id="thai-film" tvg-logo="https://api.bananamuffin.org/images/png/sd-thaifilm.png" group-title="Entertainment",sd-thaifilm
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/sd-thaifilm_720/playlist.m3u8
+#EXTINF:-1 tvg-id="3BB.206" tvg-logo="https://api.bananamuffin.org/images/png/sd-asianfood.png" group-title="Documentary",sd-asianfood
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-asianfood_720/playlist.m3u8
+#EXTINF:-1 tvg-id="true-explore-3" tvg-logo="https://api.bananamuffin.org/images/png/sd-expsci.png" group-title="Documentary",sd-expsci
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/sd-expsci_720/playlist.m3u8
+#EXTINF:-1 tvg-id="3BB.503" tvg-logo="https://api.bananamuffin.org/images/png/sd-discovery.png" group-title="Documentary",sd-discovery
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-discovery_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono1" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01.png" group-title="THAILAND",MONOMAX 1
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax01_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono1" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax01bkp.png" group-title="THAILAND",MONOMAX 1 (BKP)
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax01bkp_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono2" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02.png" group-title="THAILAND",MONOMAX 2
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax02_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono2" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax02bkp.png" group-title="THAILAND",MONOMAX 2 (BKP)
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax02bkp_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono3" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax03.png" group-title="THAILAND",MONOMAX 3
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax03_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono4" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax04.png" group-title="THAILAND",MONOMAX 4
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax04bkp_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono5" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax05.png" group-title="THAILAND",MONOMAX 5
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax05_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono6" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax06.png" group-title="THAILAND",MONOMAX 6
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax06_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono7" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax07.png" group-title="THAILAND",MONOMAX 7
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax07_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono8" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax08.png" group-title="THAILAND",MONOMAX 8
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax08_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono9" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax09.png" group-title="THAILAND",MONOMAX 9
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax09_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono10" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax10.png" group-title="THAILAND",MONOMAX 10
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax10_720/playlist.m3u8
+#EXTINF:-1 tvg-id="mono11" tvg-logo="https://api.bananamuffin.org/images/png/th-monomax11.png" group-title="THAILAND",MONOMAX 11
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-monomax11_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truepremierfootballhd3" tvg-logo="https://api.bananamuffin.org/images/png/epl-3.png" group-title="THAILAND",truepremierfootballhd3
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/epl-3_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truesport-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport1.png" group-title="THAILAND",Sport1
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-tsport1_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truesport-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport1.png" group-title="THAILAND",Sport1 (ALT)
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/th-tsporthd1_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truesport-hd-2" tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport2.png" group-title="THAILAND",Sport2
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-tsport2_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truesport-hd-3" tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport3.png" group-title="THAILAND",Sport3
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-tsport3_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truesport-hd-4" tvg-logo="https://api.bananamuffin.org/images/png/hd-tsport4.png" group-title="THAILAND",Sport4
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-tsport4_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truesport-5" tvg-logo="https://api.bananamuffin.org/images/png/sd-tsport5.png" group-title="THAILAND",Sport5
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/sd-tsport5_720/playlist.m3u8
+#EXTINF:-1 tvg-id="truesport-7" tvg-logo="https://api.bananamuffin.org/images/png/sd-tsport7.png" group-title="THAILAND",Sport7
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/sd-tsport7_720/playlist.m3u8
+#EXTINF:-1 tvg-id="t-sports-7-sd" tvg-logo="https://api.bananamuffin.org/images/png/sd-tsports.png" group-title="THAILAND",TSport7
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/sd-tsports_720/playlist.m3u8
+#EXTINF:-1 tvg-id="bein-sports-hd1" tvg-logo="https://api.bananamuffin.org/images/png/epl-bein1.png" group-title="THAILAND",Bein1
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-id="bein-sports-hd2" tvg-logo="https://api.bananamuffin.org/images/png/epl-bein2.png" group-title="THAILAND",Bein2
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/epl-bein2_720/playlist.m3u8
+#EXTINF:-1 tvg-id="bein-sports-hd3" tvg-logo="https://api.bananamuffin.org/images/png/epl-bein3.png" group-title="THAILAND",Bein3
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-id="spotv1-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-spotv.png" group-title="THAILAND",SPOTV1
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-spotv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="spotv2-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-spotv2.png" group-title="THAILAND",SPOTV2
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-spotv2_720/playlist.m3u8
+#EXTINF:-1 tvg-id="golfplus-th" tvg-logo="https://api.bananamuffin.org/images/png/hd-golf2.png" group-title="THAILAND",Golf2
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/lx-origin/hd-golf2_720/playlist.m3u8
+#EXTINF:-1 tvg-id="true-tennis-hd" tvg-logo="https://api.bananamuffin.org/images/png/hd-tennis.png" group-title="THAILAND",Tennis
+#EXTVLCOPT:http-referrer=https://livesod365ab.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://love.bovilu.workers.dev/vx-origin/hd-tennis_720/playlist.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-1" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-2" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-3" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-4" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 4
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-5" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 5
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-6" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-7" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 7
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-8" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 8
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
+#EXTINF:-1 tvg-id="true-ball-thai-9" tvg-logo="https://i.postimg.cc/44LjvQ9Q/PLAY-SPORTS.png" group-title="THAILAND",PLAY SPORTS FOOTBALL 9
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL009/HLS/TL009.m3u8
+#EXTINF:-1 tvg-id="aislive1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH1.png" group-title="THAILAND",Live 1
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+#EXTINF:-1 tvg-id="aislive2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH2.png" group-title="THAILAND",Live 2
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+#EXTINF:-1 tvg-id="aislive3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ACC_ShopeeCup_CH3.png" group-title="THAILAND",Live 3
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 tvg-id="playsports48" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports48.png" group-title="THAILAND",PLAY SPORTS 48
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL103/HLS/TL103.m3u8
+#EXTINF:-1 tvg-id="playsports49" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports49.png" group-title="THAILAND",PLAY SPORTS 49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/TL104/HLS/TL104.m3u8
+#EXTINF:-1 tvg-id="playsports50" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/PlaySports50.png" group-title="THAILAND",PLAY SPORTS 50
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://olympic-embed.ais-vidnt.com
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL105/HLS/TL105.m3u8
+#EXTINF:-1 tvg-name="Japan vs England - CH1" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Japan vs England - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/sd-tsport7_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Japan vs England - CH2" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Japan vs England - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Japan vs England - CH3" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Japan vs England - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Japan vs England - CH4" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Japan vs England - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubsport01_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Japan vs Malaysia - CH1" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Japan vs Malaysia - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/hd-tsport2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Japan vs Malaysia - CH2" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Japan vs Malaysia - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/th-tsporthd2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Japan vs Malaysia - CH3" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Japan vs Malaysia - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="SUEK MUAY THAI PHANTHAMIT 2026 - CH1" tvg-logo="https://i.postimg.cc/C5tKCCZ0/Boxing.png" group-title="LIVE",SUEK MUAY THAI PHANTHAMIT 2026 - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/sd-tsport5_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship - CH1" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Snooker: World Championship - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/hd-tsport3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship - CH2" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Snooker: World Championship - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/hd-tsport1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship - CH3" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Snooker: World Championship - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/th-tsporthd1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship - CH4" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Snooker: World Championship - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport1hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship - CH5" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",Snooker: World Championship - CH5
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport3hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Delhi Capitals vs Royal Challengers Bangalore - CH1" tvg-logo="https://i.postimg.cc/Ss50SvyW/Indian-Premier-League.png" group-title="LIVE",Delhi Capitals vs Royal Challengers Bangalore - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/au-fox501_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Delhi Capitals vs Royal Challengers Bangalore - CH2" tvg-logo="https://i.postimg.cc/Ss50SvyW/Indian-Premier-League.png" group-title="LIVE",Delhi Capitals vs Royal Challengers Bangalore - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nz-skysport1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Delhi Capitals vs Royal Challengers Bangalore - CH3" tvg-logo="https://i.postimg.cc/Ss50SvyW/Indian-Premier-League.png" group-title="LIVE",Delhi Capitals vs Royal Challengers Bangalore - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-cricket_720/playlist.m3u8
+#EXTINF:-1 tvg-name="WTA 1000 MADRID OPEN 2026 # ROUND 4 - CH1" tvg-logo="https://filebroker-cdn.lazada.co.th/kf/S73e228f450c04dfd882c6e917db0a076r.jpg" group-title="LIVE",WTA 1000 MADRID OPEN 2026 # ROUND 4 - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/hd-tennis_720/playlist.m3u8
+#EXTINF:-1 tvg-name="กาตาร์ เอสซี vs อัล ดูฮาอิล 21:15 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/137995.png" group-title="Qatar Stars League",กาตาร์ เอสซี vs อัล ดูฮาอิล 21:15 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/hd-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="กายารี่ vs อตาลันต้า 23:30 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134783.png" group-title="Italian Serie A",กายารี่ vs อตาลันต้า 23:30 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/epl-3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="กายารี่ vs อตาลันต้า 23:30 (27/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134783.png" group-title="Italian Serie A",กายารี่ vs อตาลันต้า 23:30 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-football_720/playlist.m3u8
+#EXTINF:-1 tvg-name="กายารี่ vs อตาลันต้า 23:30 (27/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134783.png" group-title="Italian Serie A",กายารี่ vs อตาลันต้า 23:30 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="กายารี่ vs อตาลันต้า 23:30 (27/04) - CH4" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134783.png" group-title="Italian Serie A",กายารี่ vs อตาลันต้า 23:30 (27/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="กายารี่ vs อตาลันต้า 23:30 (27/04) - CH5" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134783.png" group-title="Italian Serie A",กายารี่ vs อตาลันต้า 23:30 (27/04) - CH5
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/pt-sporttv2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="กายารี่ vs อตาลันต้า 23:30 (27/04) - CH6" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134783.png" group-title="Italian Serie A",กายารี่ vs อตาลันต้า 23:30 (27/04) - CH6
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/us-fox-deportes_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ลาซิโอ vs อูดิเนเซ่ 01:45 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133668.png" group-title="Italian Serie A",ลาซิโอ vs อูดิเนเซ่ 01:45 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/epl-3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ลาซิโอ vs อูดิเนเซ่ 01:45 (27/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133668.png" group-title="Italian Serie A",ลาซิโอ vs อูดิเนเซ่ 01:45 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-football_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ลาซิโอ vs อูดิเนเซ่ 01:45 (27/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133668.png" group-title="Italian Serie A",ลาซิโอ vs อูดิเนเซ่ 01:45 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/pt-sporttv2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Denmark vs South Korea 23:30 (27/04) - CH1" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Denmark vs South Korea 23:30 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/sd-tsport7_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Denmark vs South Korea 23:30 (27/04) - CH2" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Denmark vs South Korea 23:30 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Denmark vs South Korea 23:30 (27/04) - CH3" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Denmark vs South Korea 23:30 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Denmark vs South Korea 23:30 (27/04) - CH4" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Denmark vs South Korea 23:30 (27/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubsport01_720/playlist.m3u8
+#EXTINF:-1 tvg-name="China vs India 23:30 (27/04) - CH1" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",China vs India 23:30 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/hd-tsport2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="China vs India 23:30 (27/04) - CH2" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",China vs India 23:30 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/th-tsporthd2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="China vs India 23:30 (27/04) - CH3" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",China vs India 23:30 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Taiwan vs Indonesia 15:00 (28/04) - CH1" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Taiwan vs Indonesia 15:00 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Taiwan vs Indonesia 15:00 (28/04) - CH2" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Taiwan vs Indonesia 15:00 (28/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-badminton1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Taiwan vs Indonesia 15:00 (28/04) - CH3" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Taiwan vs Indonesia 15:00 (28/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubsport01_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Bulgaria vs Spain 15:00 (28/04) - CH1" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="Uber Cup",Bulgaria vs Spain 15:00 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เบซิกตัส vs ฟาติห์ คารากุมรุค 00:00 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133794.png" group-title="Turkish Super Lig",เบซิกตัส vs ฟาติห์ คารากุมรุค 00:00 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/epl-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เบซิกตัส vs ฟาติห์ คารากุมรุค 00:00 (27/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133794.png" group-title="Turkish Super Lig",เบซิกตัส vs ฟาติห์ คารากุมรุค 00:00 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เบซิกตัส vs ฟาติห์ คารากุมรุค 00:00 (27/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133794.png" group-title="Turkish Super Lig",เบซิกตัส vs ฟาติห์ คารากุมรุค 00:00 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133835.png" group-title="Turkish Super Lig",คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133835.png" group-title="Turkish Super Lig",คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133835.png" group-title="Turkish Super Lig",คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/pt-sporttv3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH4" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133835.png" group-title="Turkish Super Lig",คอนยาสปอร์ vs แทร็บซอนสปอร์ 00:00 (27/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship 00:30 (27/04) - CH1" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="World Snooker",Snooker: World Championship 00:30 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/hd-tsport3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship 00:30 (27/04) - CH2" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="World Snooker",Snooker: World Championship 00:30 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/hd-tsport1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship 00:30 (27/04) - CH3" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="World Snooker",Snooker: World Championship 00:30 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/th-tsporthd1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship 00:30 (27/04) - CH4" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="World Snooker",Snooker: World Championship 00:30 (27/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport1hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship 00:30 (27/04) - CH5" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="World Snooker",Snooker: World Championship 00:30 (27/04) - CH5
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport3hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship 16:00 (28/04) - CH1" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="World Snooker",Snooker: World Championship 16:00 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport1hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Snooker: World Championship 16:00 (28/04) - CH2" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a4afadbea193e9ce367f90847" group-title="World Snooker",Snooker: World Championship 16:00 (28/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport3hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Cádiz vs ลาส ปัลมาส 01:30 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134222.png" group-title="Spanish La Liga 2",Cádiz vs ลาส ปัลมาส 01:30 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/epl-bein2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Cádiz vs ลาส ปัลมาส 01:30 (27/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134222.png" group-title="Spanish La Liga 2",Cádiz vs ลาส ปัลมาส 01:30 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-bein2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH1" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-epl_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH2" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/hd-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH3" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/hd-bein11_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH4" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-epl1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH5" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH5
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-grandstand_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH6" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH6
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nz-skysport8_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH7" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH7
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubpremier01_480/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH8" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH8
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubpremier02_720/playlist.m3u8
+#EXTINF:-1 tvg-name="แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH9" tvg-logo="https://cdn.sportmonks.com/images/soccer/teams/14/14.png" group-title="English Premier League",แมนเชสเตอร์ ยูไนเต็ด vs เบรนท์ฟอร์ด 02:00 (27/04) - CH9
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-mainevent_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/epl-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/fr-bein2hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/hd-bein12_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH4" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/hd-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH5" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH5
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH6" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH6
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH7" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH7
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH8" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH8
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH9" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH9
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-premiersports_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH10" tvg-logo="https://api.bananamuffin.org/images/emblems/32/133734.png" group-title="Spanish La Liga",เอสปันญ่อล vs เลบันเต้ 02:00 (27/04) - CH10
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/us-espn-deportes_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135254.png" group-title="MLB",เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/hd-bein12_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135254.png" group-title="MLB",เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135254.png" group-title="MLB",เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport2hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH4" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135254.png" group-title="MLB",เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/us-foxsports1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH5" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135254.png" group-title="MLB",เคลฟเวแลนด์ การ์เดียน vs เทมป้า เบย์ เรย์ 05:10 (27/04) - CH5
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/us-mlb_720/playlist.m3u8
+#EXTINF:-1 tvg-name="โตรอนโต้ บลู เจย์ vs บอสตัน เรด ซอกซ์ 06:07 (28/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135265.png" group-title="MLB",โตรอนโต้ บลู เจย์ vs บอสตัน เรด ซอกซ์ 06:07 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ชิคาโก้ ไวท์ ซอกซ์ vs ลอส แอนเจิ้ลเลส แอนเจลส์ 06:40 (28/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135253.png" group-title="MLB",ชิคาโก้ ไวท์ ซอกซ์ vs ลอส แอนเจิ้ลเลส แอนเจลส์ 06:40 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/hd-bein12_720/playlist.m3u8
+#EXTINF:-1 tvg-name="มินนิโซตา ทวินส์ vs ซีแอทเทิล มาริเนอร์ 06:40 (28/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135259.png" group-title="MLB",มินนิโซตา ทวินส์ vs ซีแอทเทิล มาริเนอร์ 06:40 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport1hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="มินนิโซตา ทวินส์ vs ซีแอทเทิล มาริเนอร์ 06:40 (28/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135259.png" group-title="MLB",มินนิโซตา ทวินส์ vs ซีแอทเทิล มาริเนอร์ 06:40 (28/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/us-fox-deportes_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ซานดิเอโก้ ปาเดรส vs ชิคาโก้ คลับ 08:40 (28/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135278.png" group-title="MLB",ซานดิเอโก้ ปาเดรส vs ชิคาโก้ คลับ 08:40 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ซานดิเอโก้ ปาเดรส vs ชิคาโก้ คลับ 08:40 (28/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135278.png" group-title="MLB",ซานดิเอโก้ ปาเดรส vs ชิคาโก้ คลับ 08:40 (28/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn4_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ซานดิเอโก้ ปาเดรส vs ชิคาโก้ คลับ 08:40 (28/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/135278.png" group-title="MLB",ซานดิเอโก้ ปาเดรส vs ชิคาโก้ คลับ 08:40 (28/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/us-mlb_720/playlist.m3u8
+#EXTINF:-1 tvg-name="Pittsburgh Penguins vs Philadelphia Flyers 06:00 (28/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134844.png" group-title="NHL",Pittsburgh Penguins vs Philadelphia Flyers 06:00 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/us-espn-deportes_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ออแลนโด้ เมจิก vs ดีทรอยท์ พิสตันส์ 07:00 (28/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134883.png" group-title="NBA",ออแลนโด้ เมจิก vs ดีทรอยท์ พิสตันส์ 07:00 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/ca-tsn3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ออแลนโด้ เมจิก vs ดีทรอยท์ พิสตันส์ 07:00 (28/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134883.png" group-title="NBA",ออแลนโด้ เมจิก vs ดีทรอยท์ พิสตันส์ 07:00 (28/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/ca-tsn4_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ออแลนโด้ เมจิก vs ดีทรอยท์ พิสตันส์ 07:00 (28/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134883.png" group-title="NBA",ออแลนโด้ เมจิก vs ดีทรอยท์ พิสตันส์ 07:00 (28/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/fr-bein1hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH1" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134868.png" group-title="NBA",ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH1
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/ca-tsn5_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH2" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134868.png" group-title="NBA",ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH2
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/fr-bein2hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH3" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134868.png" group-title="NBA",ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH3
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/pt-sporttv1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH4" tvg-logo="https://api.bananamuffin.org/images/emblems/32/134868.png" group-title="NBA",ฟีนิกซ์ ซัน vs โอคลาโฮมา ซิตี้ ธันเดอร์ 08:30 (28/04) - CH4
+#EXTVLCOPT:http-referrer=https://livesod365ad.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-action_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-attheraces" tvg-logo="https://api.bananamuffin.org/images/png/uk-attheraces.png" group-title="SPORT",uk-attheraces
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-attheraces_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-btsport1hd" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport1hd.png" group-title="SPORT",uk-btsport1hd
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport1hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-btsport1hdbkp" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport1hdbkp.png" group-title="SPORT",uk-btsport1hdbkp
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-btsport1hdbkp_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-btsport2hd" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport2hd.png" group-title="SPORT",uk-btsport2hd
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport2hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-btsport2hdbkp" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport2hdbkp.png" group-title="SPORT",uk-btsport2hdbkp
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-btsport2hdbkp_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-btsport3hd" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport3hd.png" group-title="SPORT",uk-btsport3hd
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/uk-btsport3hd_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-btsport3hdbkp" tvg-logo="https://api.bananamuffin.org/images/png/uk-btsport3hdbkp.png" group-title="SPORT",uk-btsport3hdbkp
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-btsport3hdbkp_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-espn" tvg-logo="https://api.bananamuffin.org/images/png/uk-espn.png" group-title="SPORT",uk-espn
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-espn_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-premiersports" tvg-logo="https://api.bananamuffin.org/images/png/uk-premiersports.png" group-title="SPORT",uk-premiersports
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-premiersports_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-premiersports2" tvg-logo="https://api.bananamuffin.org/images/png/uk-premiersports2.png" group-title="SPORT",uk-premiersports2
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-premiersports2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-action" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-action.png" group-title="SPORT",uk-skysports-action
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-action_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-arena" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-arena.png" group-title="SPORT",uk-skysports-arena
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-arena_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-cricket" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-cricket.png" group-title="SPORT",uk-skysports-cricket
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-cricket_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-epl" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-epl.png" group-title="SPORT",uk-skysports-epl
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-epl_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-f1" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-f1.png" group-title="SPORT",uk-skysports-f1
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-f1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-football" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-football.png" group-title="SPORT",uk-skysports-football
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-football_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-golf" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-golf.png" group-title="SPORT",uk-skysports-golf
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-golf_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-mainevent" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-mainevent.png" group-title="SPORT",uk-skysports-mainevent
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-mainevent_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-mix" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-mix.png" group-title="SPORT",uk-skysports-mix
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-mix_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-news" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-news.png" group-title="SPORT",uk-skysports-news
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-news_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports-plus" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports-plus.png" group-title="SPORT",uk-skysports-plus
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports-plus_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports1bkp" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports1bkp.png" group-title="SPORT",uk-skysports1bkp
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports1bkp_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports4bkp" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports4bkp.png" group-title="SPORT",uk-skysports4bkp
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports4bkp_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysports5bkp" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysports5bkp.png" group-title="SPORT",uk-skysports5bkp
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysports5bkp_720/playlist.m3u8
+#EXTINF:-1 tvg-name="uk-skysportsf1bkp" tvg-logo="https://api.bananamuffin.org/images/png/uk-skysportsf1bkp.png" group-title="SPORT",uk-skysportsf1bkp
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/vx-origin/uk-skysportsf1bkp_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-arena1" tvg-logo="https://api.bananamuffin.org/images/png/my-arena1.png" group-title="SPORT",my-arena1
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-arena2" tvg-logo="https://api.bananamuffin.org/images/png/my-arena2.png" group-title="SPORT",my-arena2
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-arena2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-astro-football" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-football.png" group-title="SPORT",my-astro-football
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-football_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-astro-grandstand" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-grandstand.png" group-title="SPORT",my-astro-grandstand
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-grandstand_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-astro-sportsplus" tvg-logo="https://api.bananamuffin.org/images/png/my-astro-sportsplus.png" group-title="SPORT",my-astro-sportsplus
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-astro-sportsplus_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-bein1" tvg-logo="https://api.bananamuffin.org/images/png/my-bein1.png" group-title="SPORT",my-bein1
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-bein2" tvg-logo="https://api.bananamuffin.org/images/png/my-bein2.png" group-title="SPORT",my-bein2
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-bein2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-bein3" tvg-logo="https://api.bananamuffin.org/images/png/my-bein3.png" group-title="SPORT",my-bein3
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-nbcgolf" tvg-logo="https://api.bananamuffin.org/images/png/my-nbcgolf.png" group-title="SPORT",my-nbcgolf
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-nbcgolf_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-premiersports" tvg-logo="https://api.bananamuffin.org/images/png/my-premiersports.png" group-title="SPORT",my-premiersports
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-premiersports_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-spotv1" tvg-logo="https://api.bananamuffin.org/images/png/my-spotv1.png" group-title="SPORT",my-spotv1
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-spotv1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="my-spotv2" tvg-logo="https://api.bananamuffin.org/images/png/my-spotv2.png" group-title="SPORT",my-spotv2
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/my-spotv2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="sg-bein1" tvg-logo="https://api.bananamuffin.org/images/png/sg-bein1.png" group-title="SPORT",sg-bein1
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-bein1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="sg-bein2" tvg-logo="https://api.bananamuffin.org/images/png/sg-bein2.png" group-title="SPORT",sg-bein2
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-bein2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="sg-bein3" tvg-logo="https://api.bananamuffin.org/images/png/sg-bein3.png" group-title="SPORT",sg-bein3
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-bein3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="sg-hubsport01" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport01.png" group-title="SPORT",sg-hubsport01
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubsport01_720/playlist.m3u8
+#EXTINF:-1 tvg-name="sg-hubsport02" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport02.png" group-title="SPORT",sg-hubsport02
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubsport02_720/playlist.m3u8
+#EXTINF:-1 tvg-name="sg-hubsport03" tvg-logo="https://api.bananamuffin.org/images/png/sg-hubsport03.png" group-title="SPORT",sg-hubsport03
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/sg-hubsport03_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-espn1" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn1.png" group-title="SPORT",nl-espn1
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-espn2" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn2.png" group-title="SPORT",nl-espn2
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-espn3" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn3.png" group-title="SPORT",nl-espn3
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-espn4" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn4.png" group-title="SPORT",nl-espn4
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn4_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-espn5" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn5.png" group-title="SPORT",nl-espn5
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn5_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-espn6" tvg-logo="https://api.bananamuffin.org/images/png/nl-espn6.png" group-title="SPORT",nl-espn6
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-espn6_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-ziggosport1" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport1.png" group-title="SPORT",nl-ziggosport1
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport1_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-ziggosport2" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport2.png" group-title="SPORT",nl-ziggosport2
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport2_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-ziggosport3" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport3.png" group-title="SPORT",nl-ziggosport3
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-ziggosport4" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport4.png" group-title="SPORT",nl-ziggosport4
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport4_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-ziggosport5" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport5.png" group-title="SPORT",nl-ziggosport5
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport5_720/playlist.m3u8
+#EXTINF:-1 tvg-name="nl-ziggosport6" tvg-logo="https://api.bananamuffin.org/images/png/nl-ziggosport6.png" group-title="SPORT",nl-ziggosport6
+#EXTVLCOPT:http-referrer=https://livesod365ac.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bovilu.workers.dev/lx-origin/nl-ziggosport6_720/playlist.m3u8
